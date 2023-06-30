@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/stephenvizzusi" target="blank"><img src="https://img.shields.io/twitter/follow/stephenvizzusi?logo=twitter&style=for-the-badge" alt="stephenvizzusi" /></a> </p>
 
-- 🔭 I’m currently working on [Denta Dental Clinic](https://dentaclinic.netlify.app)
+- 🔭 I’m currently working on [King Motors](https://king-motors.netlify.app)
 
 - 🌱 I’m currently learning **JS, React, Node, Tailwind**
 
