@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JS, React, Node, Tailwind**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/svizzusi](https://github.com/svizzusi](https://stephenvizzusi.vercel.app/))
+- 👨‍💻 All of my projects are available at (https://stephenvizzusi.vercel.app/)
 
 - 📫 How to reach me **svizzusi13@gmail.com**
 
